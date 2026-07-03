@@ -1,0 +1,3 @@
+helmCharts:
+- name: pwn
+  version: 0.0.1
